@@ -11,7 +11,7 @@ int main() {
     
     return 0;
 }
-
+ 
 
 /*
  To read a double we would have to do it like so:
