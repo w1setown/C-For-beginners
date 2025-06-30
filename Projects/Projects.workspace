@@ -3,6 +3,10 @@
   <Project Name="Test_Project" Path="Test_Project/Test_Project.project" Active="No"/>
   <Project Name="Template-Test" Path="Template-Test/Template-Test.project" Active="No"/>
   <Project Name="FirstProgram" Path="FirstProgram/FirstProgram.project" Active="No"/>
+  <VirtualDirectory Name="Challenges">
+    <Project Name="Challenge_1" Path="Challenge_1/Challenge_1.project" Active="No"/>
+  </VirtualDirectory>
+  <Project Name="Scanf_example" Path="Scanf_example/Scanf_example.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -10,6 +14,7 @@
       <Project Name="Template-Test" ConfigName="Debug"/>
       <Project Name="FirstProgram" ConfigName="Debug"/>
       <Project Name="Challenge_1" ConfigName="Debug"/>
+      <Project Name="Scanf_example" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -17,9 +22,7 @@
       <Project Name="Template-Test" ConfigName="Release"/>
       <Project Name="FirstProgram" ConfigName="Release"/>
       <Project Name="Challenge_1" ConfigName="Release"/>
+      <Project Name="Scanf_example" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
-  <VirtualDirectory Name="Challenges">
-    <Project Name="Challenge_1" Path="Challenge_1/Challenge_1.project" Active="Yes"/>
-  </VirtualDirectory>
 </CodeLite_Workspace>
