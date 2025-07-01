@@ -36,6 +36,14 @@ int main(){
     
     enum Company {GOOGLE, FACEBOOK, XEROX, YAHOO, EBAY, MICROSOFT};
     
+    enum Company xeroxVar = XEROX;
+    enum Company googleVar = GOOGLE;
+    enum Company ebayVar = EBAY;
+
+    
+    printf("%d\n", xeroxVar);
+    printf("%d\n", googleVar);
+    printf("%d\n", ebayVar);
     
     return 0;
 }
