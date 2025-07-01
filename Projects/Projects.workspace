@@ -7,7 +7,10 @@
     <Project Name="Challenge_1" Path="Challenge_1/Challenge_1.project" Active="No"/>
   </VirtualDirectory>
   <Project Name="Scanf_example" Path="Scanf_example/Scanf_example.project" Active="No"/>
-  <Project Name="variable_example" Path="variable_example/variable_example.project" Active="Yes"/>
+  <Project Name="variable_example" Path="variable_example/variable_example.project" Active="No"/>
+  <Project Name="_bool" Path="_bool/_bool.project" Active="No"/>
+  <Project Name="enum" Path="enum/enum.project" Active="No"/>
+  <Project Name="char" Path="char/char.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -17,6 +20,9 @@
       <Project Name="Challenge_1" ConfigName="Debug"/>
       <Project Name="Scanf_example" ConfigName="Debug"/>
       <Project Name="variable_example" ConfigName="Debug"/>
+      <Project Name="_bool" ConfigName="Debug"/>
+      <Project Name="enum" ConfigName="Debug"/>
+      <Project Name="char" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -26,6 +32,9 @@
       <Project Name="Challenge_1" ConfigName="Release"/>
       <Project Name="Scanf_example" ConfigName="Release"/>
       <Project Name="variable_example" ConfigName="Release"/>
+      <Project Name="_bool" ConfigName="Release"/>
+      <Project Name="enum" ConfigName="Release"/>
+      <Project Name="char" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
