@@ -1,7 +1,7 @@
 /*
 Requirements:
- *  In this challenge, you must create a C program that defines 
-    an enum type and uses the values of some variables
+In this challenge, you must create a C program that defines 
+an enum type and uses the values of some variables
    
  * This program should create an enum type named Company
    * Valid values for this type are GOOGLE, FACEBOOK,
@@ -33,5 +33,9 @@ Hints
 #include <stdio.h>
 
 int main(){
-
+    
+    enum Company {GOOGLE, FACEBOOK, XEROX, YAHOO, EBAY, MICROSOFT};
+    
+    
+    return 0;
 }
