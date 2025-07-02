@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Projects" Database="" Version="10000">
-  <Project Name="Test_Project" Path="Test_Project/Test_Project.project" Active="No"/>
   <Project Name="Template-Test" Path="Template-Test/Template-Test.project" Active="No"/>
   <Project Name="FirstProgram" Path="FirstProgram/FirstProgram.project" Active="No"/>
   <VirtualDirectory Name="Challenges">
     <Project Name="Challenge_1" Path="Challenge_1/Challenge_1.project" Active="No"/>
-    <Project Name="Challenge_2" Path="Challenge_2/Challenge_2.project" Active="Yes"/>
+    <Project Name="Challenge_2" Path="Challenge_2/Challenge_2.project" Active="No"/>
   </VirtualDirectory>
   <Project Name="Scanf_example" Path="Scanf_example/Scanf_example.project" Active="No"/>
   <Project Name="variable_example" Path="variable_example/variable_example.project" Active="No"/>
   <Project Name="_bool" Path="_bool/_bool.project" Active="No"/>
   <Project Name="enum" Path="enum/enum.project" Active="No"/>
   <Project Name="char" Path="char/char.project" Active="No"/>
+  <Project Name="format_specifiers" Path="format_specifiers/format_specifiers.project" Active="No"/>
+  <Project Name="format_specifier_pt2" Path="format_specifier_pt2/format_specifier_pt2.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
-      <Project Name="Test_Project" ConfigName="Debug"/>
       <Project Name="Template-Test" ConfigName="Debug"/>
       <Project Name="FirstProgram" ConfigName="Debug"/>
       <Project Name="Challenge_1" ConfigName="Debug"/>
@@ -25,10 +25,11 @@
       <Project Name="enum" ConfigName="Debug"/>
       <Project Name="char" ConfigName="Debug"/>
       <Project Name="Challenge_2" ConfigName="Debug"/>
+      <Project Name="format_specifiers" ConfigName="Debug"/>
+      <Project Name="format_specifier_pt2" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
-      <Project Name="Test_Project" ConfigName="Release"/>
       <Project Name="Template-Test" ConfigName="Release"/>
       <Project Name="FirstProgram" ConfigName="Release"/>
       <Project Name="Challenge_1" ConfigName="Release"/>
@@ -38,6 +39,8 @@
       <Project Name="enum" ConfigName="Release"/>
       <Project Name="char" ConfigName="Release"/>
       <Project Name="Challenge_2" ConfigName="Release"/>
+      <Project Name="format_specifiers" ConfigName="Release"/>
+      <Project Name="format_specifier_pt2" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
