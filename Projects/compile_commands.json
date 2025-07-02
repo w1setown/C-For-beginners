@@ -1,23 +1,27 @@
 [{
-		"file":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\char\\main.c",
-		"directory":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\char",
-		"command":	"C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\char\\main.c\" -o \"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\char\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
-	}, {
 		"file":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\format_specifier_pt2\\main.c",
 		"directory":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\format_specifier_pt2",
 		"command":	"C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\format_specifier_pt2\\main.c\" -o \"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\format_specifier_pt2\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+	}, {
+		"file":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\char\\main.c",
+		"directory":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\char",
+		"command":	"C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\char\\main.c\" -o \"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\char\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
 	}, {
 		"file":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\enum\\main.c",
 		"directory":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\enum",
 		"command":	"C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\enum\\main.c\" -o \"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\enum\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
 	}, {
+		"file":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\command_line\\main.c",
+		"directory":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\command_line",
+		"command":	"C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\command_line\\main.c\" -o \"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\command_line\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+	}, {
+		"file":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\FirstProgram\\main.c",
+		"directory":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\FirstProgram",
+		"command":	"C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\FirstProgram\\main.c\" -o \"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\FirstProgram\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+	}, {
 		"file":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\_bool\\main.c",
 		"directory":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\_bool",
 		"command":	"C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\_bool\\main.c\" -o \"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\_bool\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
-	}, {
-		"file":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\variable_example\\main.c",
-		"directory":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\variable_example",
-		"command":	"C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\variable_example\\main.c\" -o \"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\variable_example\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
 	}, {
 		"file":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\format_specifiers\\main.c",
 		"directory":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\format_specifiers",
@@ -35,9 +39,13 @@
 		"directory":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\Challenge_1",
 		"command":	"C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\Challenge_1\\test.c\" -o \"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\Challenge_1\\test.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
 	}, {
-		"file":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\FirstProgram\\main.c",
-		"directory":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\FirstProgram",
-		"command":	"C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\FirstProgram\\main.c\" -o \"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\FirstProgram\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+		"file":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\variable_example\\main.c",
+		"directory":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\variable_example",
+		"command":	"C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\variable_example\\main.c\" -o \"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\variable_example\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+	}, {
+		"file":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\Challenge_3\\main.c",
+		"directory":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\Challenge_3",
+		"command":	"C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\Challenge_3\\main.c\" -o \"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\Challenge_3\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
 	}, {
 		"file":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\Template-Test\\main.c",
 		"directory":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\Template-Test",
