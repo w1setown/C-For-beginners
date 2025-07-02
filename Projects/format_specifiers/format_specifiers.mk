@@ -3,18 +3,18 @@
 ## any manual changes will be erased      
 ##
 ## Debug
-ProjectName            :=Test_Project
+ProjectName            :=format_specifiers
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
 WorkspacePath          :="C:/Users/68691/OneDrive - Syddansk Erhvervsskole/Documents/GitHub/C-For-beginners/Projects"
-ProjectPath            :="C:/Users/68691/OneDrive - Syddansk Erhvervsskole/Documents/GitHub/C-For-beginners/Projects/Test_Project"
-IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Test_Project
+ProjectPath            :="C:/Users/68691/OneDrive - Syddansk Erhvervsskole/Documents/GitHub/C-For-beginners/Projects/format_specifiers"
+IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/format_specifiers
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
 User                   :=68691
-Date                   :=25/06/2025
+Date                   :=02/07/2025
 CodeLitePath           :="C:/Program Files/CodeLite"
 MakeDirCommand         :=mkdir -p
 LinkerName             :=C:/cygwin64/bin/gcc.exe
@@ -96,7 +96,7 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/main.c$(ObjectSuffix): main.c $(IntermediateDirectory)/main.c$(DependSuffix)
-	$(CC) $(SourceSwitch) "C:/Users/68691/OneDrive - Syddansk Erhvervsskole/Documents/GitHub/C-For-beginners/Projects/Test_Project/main.c" $(CFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.c$(ObjectSuffix) $(IncludePath)
+	$(CC) $(SourceSwitch) "C:/Users/68691/OneDrive - Syddansk Erhvervsskole/Documents/GitHub/C-For-beginners/Projects/format_specifiers/main.c" $(CFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.c$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.c$(DependSuffix): main.c
 	@$(CC) $(CFLAGS) $(IncludePath) -MG -MP -MT$(IntermediateDirectory)/main.c$(ObjectSuffix) -MF$(IntermediateDirectory)/main.c$(DependSuffix) -MM main.c
 
