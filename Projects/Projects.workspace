@@ -10,11 +10,12 @@
   <Project Name="Scanf_example" Path="Scanf_example/Scanf_example.project" Active="No"/>
   <Project Name="variable_example" Path="variable_example/variable_example.project" Active="No"/>
   <Project Name="_bool" Path="_bool/_bool.project" Active="No"/>
-  <Project Name="enum" Path="enum/enum.project" Active="Yes"/>
+  <Project Name="enum" Path="enum/enum.project" Active="No"/>
   <Project Name="char" Path="char/char.project" Active="No"/>
   <Project Name="format_specifiers" Path="format_specifiers/format_specifiers.project" Active="No"/>
   <Project Name="format_specifier_pt2" Path="format_specifier_pt2/format_specifier_pt2.project" Active="No"/>
   <Project Name="command_line" Path="command_line/command_line.project" Active="No"/>
+  <Project Name="arithmetic_operator_examples" Path="arithmetic_operator_examples/arithmetic_operator_examples.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -31,6 +32,7 @@
       <Project Name="format_specifier_pt2" ConfigName="Debug"/>
       <Project Name="Challenge_3" ConfigName="Debug"/>
       <Project Name="command_line" ConfigName="Debug"/>
+      <Project Name="arithmetic_operator_examples" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -47,6 +49,7 @@
       <Project Name="format_specifier_pt2" ConfigName="Release"/>
       <Project Name="Challenge_3" ConfigName="Release"/>
       <Project Name="command_line" ConfigName="Release"/>
+      <Project Name="arithmetic_operator_examples" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

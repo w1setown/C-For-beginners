@@ -1,0 +1,1 @@
+../build-Debug/arithmetic_operator_examples/main.c.o
