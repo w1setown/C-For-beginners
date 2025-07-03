@@ -1,4 +1,4 @@
-# Logical Operators Cheatsheet (C Programming)
+# Logical Operators (C Programming)
 
 ## Overview
 Logical operators in C are used to combine or modify boolean expressions. They return integer values (1 for true, 0 for false) and are essential for control flow and conditional logic.

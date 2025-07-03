@@ -1,4 +1,8 @@
 [{
+		"file":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\logical_operators_examples\\main.c",
+		"directory":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\logical_operators_examples",
+		"command":	"C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\logical_operators_examples\\main.c\" -o \"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\logical_operators_examples\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+	}, {
 		"file":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\arithmetic_operator_examples\\main.c",
 		"directory":	"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\arithmetic_operator_examples",
 		"command":	"C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\arithmetic_operator_examples\\main.c\" -o \"C:\\Users\\68691\\OneDrive - Syddansk Erhvervsskole\\Documents\\GitHub\\C-For-beginners\\Projects\\arithmetic_operator_examples\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"

@@ -15,7 +15,8 @@
   <Project Name="format_specifiers" Path="format_specifiers/format_specifiers.project" Active="No"/>
   <Project Name="format_specifier_pt2" Path="format_specifier_pt2/format_specifier_pt2.project" Active="No"/>
   <Project Name="command_line" Path="command_line/command_line.project" Active="No"/>
-  <Project Name="arithmetic_operator_examples" Path="arithmetic_operator_examples/arithmetic_operator_examples.project" Active="Yes"/>
+  <Project Name="arithmetic_operator_examples" Path="arithmetic_operator_examples/arithmetic_operator_examples.project" Active="No"/>
+  <Project Name="logical_operators_examples" Path="logical_operators_examples/logical_operators_examples.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -33,6 +34,7 @@
       <Project Name="Challenge_3" ConfigName="Debug"/>
       <Project Name="command_line" ConfigName="Debug"/>
       <Project Name="arithmetic_operator_examples" ConfigName="Debug"/>
+      <Project Name="logical_operators_examples" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -50,6 +52,7 @@
       <Project Name="Challenge_3" ConfigName="Release"/>
       <Project Name="command_line" ConfigName="Release"/>
       <Project Name="arithmetic_operator_examples" ConfigName="Release"/>
+      <Project Name="logical_operators_examples" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
