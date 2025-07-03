@@ -3,12 +3,12 @@
 ## any manual changes will be erased      
 ##
 ## Debug
-ProjectName            :=Challenge_3
+ProjectName            :=Challenge_4
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
 WorkspacePath          :="C:/Users/68691/OneDrive - Syddansk Erhvervsskole/Documents/GitHub/C-For-beginners/Projects"
-ProjectPath            :="C:/Users/68691/OneDrive - Syddansk Erhvervsskole/Documents/GitHub/C-For-beginners/Projects/Challenge_3"
-IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Challenge_3
+ProjectPath            :="C:/Users/68691/OneDrive - Syddansk Erhvervsskole/Documents/GitHub/C-For-beginners/Projects/Challenge_4"
+IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Challenge_4
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
@@ -96,7 +96,7 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/main.c$(ObjectSuffix): main.c $(IntermediateDirectory)/main.c$(DependSuffix)
-	$(CC) $(SourceSwitch) "C:/Users/68691/OneDrive - Syddansk Erhvervsskole/Documents/GitHub/C-For-beginners/Projects/Challenge_3/main.c" $(CFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.c$(ObjectSuffix) $(IncludePath)
+	$(CC) $(SourceSwitch) "C:/Users/68691/OneDrive - Syddansk Erhvervsskole/Documents/GitHub/C-For-beginners/Projects/Challenge_4/main.c" $(CFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.c$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.c$(DependSuffix): main.c
 	@$(CC) $(CFLAGS) $(IncludePath) -MG -MP -MT$(IntermediateDirectory)/main.c$(ObjectSuffix) -MF$(IntermediateDirectory)/main.c$(DependSuffix) -MM main.c
 
