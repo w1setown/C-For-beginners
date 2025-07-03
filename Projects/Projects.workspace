@@ -10,11 +10,11 @@
   <Project Name="Scanf_example" Path="Scanf_example/Scanf_example.project" Active="No"/>
   <Project Name="variable_example" Path="variable_example/variable_example.project" Active="No"/>
   <Project Name="_bool" Path="_bool/_bool.project" Active="No"/>
-  <Project Name="enum" Path="enum/enum.project" Active="No"/>
+  <Project Name="enum" Path="enum/enum.project" Active="Yes"/>
   <Project Name="char" Path="char/char.project" Active="No"/>
   <Project Name="format_specifiers" Path="format_specifiers/format_specifiers.project" Active="No"/>
   <Project Name="format_specifier_pt2" Path="format_specifier_pt2/format_specifier_pt2.project" Active="No"/>
-  <Project Name="command_line" Path="command_line/command_line.project" Active="Yes"/>
+  <Project Name="command_line" Path="command_line/command_line.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>

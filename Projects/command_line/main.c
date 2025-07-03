@@ -9,6 +9,7 @@ int main(int argc, char *argv[])
     printf("Number of arguments is %i\n", numberOfArguments);
     printf("Argument1 is %s\n", argument1);
     printf("Argument2 is %s\n", argument2);
-
+    
+    getchar(); // Keeps terminal running
     return 0;
 }
